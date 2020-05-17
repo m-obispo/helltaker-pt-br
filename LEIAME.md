@@ -1,4 +1,4 @@
-# helltaker-pt-br
+# HELLTAKER EM PORTUGUÊS BRASILEIRO
 Repositório da tradução não-oficial de Helltaker para Português do Brasil.
 
 --++-- TRADUÇÃO NÃO-OFICIAL DE HELLTAKER --++--
